@@ -38,7 +38,7 @@ input {
   height: 20px;
 }
 .pageHeader {
-  background: url('/Images/Header_Photo2.jpg') 0 0 repeat-x;
+  background: url('Header_Photo2.jpg') 0 0 repeat-x;
   text-align: center;
   font-family: 'Amatic SC';
   position:relative;
