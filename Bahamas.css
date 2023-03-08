@@ -12,6 +12,7 @@
     text-align: center;
     font-family: 'Amatic SC';
     color: black; 
+    font-weight: bolder;
     
     }
 
@@ -47,6 +48,10 @@ nav{
   color: white;
   font-family: 'Amatic SC';
   font-weight: bold;
+  text-decoration: none;
+  padding: 5px 12px;
+  letter-spacing: 2px;
+  font-size: 22px;
 }
 
 
@@ -90,6 +95,7 @@ input {
     color: black; 
     display: block;
     text-align: left;
+    
   
 
   }
@@ -98,12 +104,14 @@ input {
     color:black ;
     font-size: .950rem;
     text-align: left;
+    
   }
 
   .para2 {
     color:black ;
     font-size: .950rem;
     text-align: left;
+    
 
   }
 
@@ -111,19 +119,32 @@ input {
     color:black ;
     font-size: .950rem;
     text-align: left;
+    
   }
 
-  .footer {
-    position: relative;
-    left: 300px;
-    bottom: 0;
-    width: 100%;
-    color: black;
-    text-align: center;
-    display:block;
-    display:inline; 
+  footer {
+    background-color:rgb(231, 70, 70);
+    padding-top: 10px;
+    display: flex;
+    color: white;
+    font-family: 'Amatic SC';
+    text-decoration: none;
+    align-items: center;
+    flex-direction: column;
+    margin-top:20px;
+  }
+  
+  footer a {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
 
+  .subscribeBox {
+    align-items: center;
+  }
 
-
-
+  .socials li {
+    padding:5px;
   }
