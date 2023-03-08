@@ -154,17 +154,14 @@ input {
     padding: 20px;
   }
   
-  footer a {
+
+  .footer a {
     color: white;
     display: flex;
     align-items: center;
     text-decoration: none;
-  }
-
-  .subscribeBox {
-    align-items: center;
-  }
-
-  .socials li {
-    padding:5px;
+    height: 50px;
+    border-top: 25px
+    
+  
   }
