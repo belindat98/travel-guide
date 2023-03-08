@@ -208,3 +208,22 @@ h6{text-align: center;
 .card-bod{
   background-color: antiquewhite;
 }
+footer {
+  background-color:rgb(231, 70, 70);
+  padding-top: 10px;
+  display: flex;
+  color: white;
+  font-family: 'Amatic SC';
+  text-decoration: none;
+  align-items: center;
+  flex-direction: column;
+  margin-top:20px;
+}
+
+footer a {
+  color: white;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
