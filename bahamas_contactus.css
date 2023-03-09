@@ -18,9 +18,10 @@
 
 ul {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  padding: 5px 12px;
+  text-decoration: none;
+  padding-left: 0;
+  list-style-position: inside;
+  
 }
 
 
