@@ -235,4 +235,6 @@ input {
 }
 .socials li {
   padding:5px;
+    float: left;
+    
 }
